@@ -1,6 +1,6 @@
 # Eyed Blocklist
 
-## Version 2.20
+## Version 2.21
 
 This blocklist is officially used by the **[Eyed Out Browser](https://apps.apple.com/app/eyed-out-private-web-browser/id6475011990)**, a private web browser available on iOS devices. It's compatible with the WebKit engine, meaning it works seamlessly within the browsers or applications utilizing WebKit.
 
